@@ -1,0 +1,18 @@
+To develop a Face Recognition Attendance system, several libraries are commonly required, primarily for facial detection, recognition, and database management. Below is a list of essential Python libraries:
+
+1. Core Libraries
+OpenCV: For image and video processing (capture and detection of faces).
+pip install opencv-python
+
+dlib: Used for face detection and facial landmark identification (required for face recognition).
+pip install dlib
+
+face_recognition: Simplifies face recognition tasks (built on dlib).
+pip install face_recognition
+
+numpy: Supports numerical operations and array manipulations (used with image data).
+pip install numpy
+
+2. Data Handling & Storage
+pandas: For managing attendance data in tabular format (CSV, Excel, etc.).
+pip install pandas
