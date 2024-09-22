@@ -16,3 +16,7 @@ pip install numpy
 2. Data Handling & Storage
 pandas: For managing attendance data in tabular format (CSV, Excel, etc.).
 pip install pandas
+
+After all that you need to create Folder and give name as dataset and save it into Project folder  where your .Py file is present.
+it is need for store your capture images to store in single folder and when user want to track data from prev then it match data 
+for checking candidate is already present.
